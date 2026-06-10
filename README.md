@@ -319,14 +319,40 @@ Not because you are unwilling to accept defeat, but because the system knows—v
 
 ---
 
-> **References**
-> 1. International Roguelike Development Conference. *Berlin Interpretation*, 2008.
-> 2. Kim W. *Shifting Genres: Limits of Video Game Genre Taxonomy in Roguelikes*. FDG 2025.
-> 3. Csikszentmihalyi M. *Flow: The Psychology of Optimal Experience*. 1990.
-> 4. Skinner B F. *Contingencies of Reinforcement: A Theoretical Analysis*. 1969.
-> 5. Cook D. *The Chemistry of Game Design*. Gamasutra, 2007.
-> 6. Uygurcetin C. *Emergent Storytelling in Roguelike Games*. Politecnico di Torino, 2025/2026.
-> 7. Hal S. *An Analysis Framework Based on the Roguelite Genre*. CSEDU, 2024.
+## References
+
+1. International Roguelike Development Conference. (2008).
+   *The Berlin Interpretation*.
+   RogueBasin.
+   http://www.roguebasin.com/index.php/Berlin_Interpretation
+
+2. Boucher, J. D., Telliel, Y. D., & Smith, G. (2025).
+   *Shifting Genres: Limits of Video Game Genre Taxonomy in Roguelikes*.
+   In *Proceedings of the 20th International Conference on the Foundations of Digital Games (FDG 2025)*.
+   ACM.
+
+3. Csikszentmihalyi, M. (1990).
+   *Flow: The Psychology of Optimal Experience*.
+   New York: Harper & Row.
+
+4. Skinner, B. F. (1969).
+   *Contingencies of Reinforcement: A Theoretical Analysis*.
+   New York: Appleton-Century-Crofts.
+
+5. Cook, D. (2007).
+   *The Chemistry of Game Design*.
+   Gamasutra.
+   https://www.gamedeveloper.com/design/the-chemistry-of-game-design
+
+6. Uygurcetin, C. (2025/2026).
+   *Emergent Storytelling in Roguelike Games: From Digital Systems to Physical Play*.
+   Bachelor's Thesis, Politecnico di Torino.
+
+7. Lemoine, B., Laforcade, P., & George, S. (2024).
+   *Designing Declarative Knowledge Training Games: An Analysis Framework Based on the Roguelite Genre*.
+   In *Computer Supported Education*.
+   Communications in Computer and Information Science (CCIS).
+   Springer.
 
 ## License
 
